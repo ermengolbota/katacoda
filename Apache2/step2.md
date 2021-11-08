@@ -12,4 +12,6 @@ El servidor apache2, si no canviem res, té com directori de treball predetermin
 `ls /var/www/html`{{execute}}
 
 I podem accedir-hi 
-<pre>https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/</pre>
+Render port 80: https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
+
+
